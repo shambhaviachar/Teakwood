@@ -1,0 +1,6 @@
+{
+  "name": "Teakwood Resort Bangalore",
+  "description": "Modern nature eco-resort in Bengaluru featuring luxury teak stays, day outing packages, 25+ adventure activities, pool, rain dance with DJ, and multi-cuisine buffets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
